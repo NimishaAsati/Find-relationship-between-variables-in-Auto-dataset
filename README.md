@@ -35,7 +35,9 @@ Negatively correlated:mpg - weight
 
 Positively correlated:displacement – cylinders
 
-2) 	1.	Relationship between input features and output response:
+2) 	
+
+	1.	Relationship between input features and output response:
 
 Yes, there is relationship between input features and the output response. Each input feature impacts the output response by the Estimate value measure (as shown in the summary table above)
 
