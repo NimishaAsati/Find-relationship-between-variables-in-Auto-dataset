@@ -19,7 +19,9 @@ Find relationship between variables in Auto dataset using Linear Regression in R
 		
 ### Results:
 
-1) Following are negatively correlated:
+1) 
+
+	Following are negatively correlated:
 		mpg – horsepower
 		mpg – weight
 		mpg – cylinder
