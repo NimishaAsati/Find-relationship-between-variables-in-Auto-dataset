@@ -55,3 +55,4 @@ it is going to impact our response variable by 0.751 times (approx.). Since, it 
 every 1 value increase in Year variable will result in 0.751 times increase in the response variable.
 
 
+#### To execute the code, download the R file and run it on R Studio.
